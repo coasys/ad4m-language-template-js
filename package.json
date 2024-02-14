@@ -1,0 +1,13 @@
+{
+  "name": "@coasys/centralized-agent-language",
+  "version": "1.0.0",
+  "description": "AD4M Language template without DNA",
+  "main": "index.js",
+  "scripts": {
+    "build": "deno run --allow-all esbuild.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
