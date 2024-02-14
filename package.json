@@ -1,5 +1,5 @@
 {
-  "name": "@coasys/centralized-agent-language",
+  "name": "expression-template-language",
   "version": "1.0.0",
   "description": "AD4M Expression Language template without DNA",
   "main": "index.js",
